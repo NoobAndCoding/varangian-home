@@ -135,7 +135,7 @@
   border-radius:8px;
 }
 
-.item:hover {
+.item-list .item:hover {
   transform: translateX(1074px) translateY(602px) rotate(720deg);
 }
 
