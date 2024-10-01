@@ -87,7 +87,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: white;
 }
 
 .carousel-view {
@@ -135,6 +134,7 @@
   background-color: deeppink;
   border-radius:8px;
 }
+
 
 
 
