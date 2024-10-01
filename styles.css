@@ -137,7 +137,7 @@
 }
 
 .item-list .item:hover {
-  transform: translateX(1074px) translateY(602px) rotate(720deg);
+  transform: scale(3.5) rotate(720deg);
 }
 
 
