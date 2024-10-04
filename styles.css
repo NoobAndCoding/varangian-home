@@ -143,8 +143,10 @@
 .IMG {
   scale: 0.5; 
   transition: 4s;
+  display:block;
 }
 
 .gallery .IMG:hover {
   transform: translate(-50%, -50%) scale(1.5) rotate(720deg);
+  justify-content: center;
 }
