@@ -143,7 +143,7 @@
 .IMG {
   scale: 0.5; 
   transition: 4s;
-  display:block;
+  display:flex;
 }
 
 .gallery .IMG:hover {
